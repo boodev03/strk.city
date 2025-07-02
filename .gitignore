@@ -3,6 +3,7 @@ target
 snfoundry_trace/
 coverage/
 profile/
+node_modules/
 
-./deploy.ts
-./deployFactory.ts
+deploy.ts
+deployFactory.ts
