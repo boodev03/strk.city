@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^24.0.7",
+    "dotenv": "^17.0.0",
+    "starknet": "^7.6.2"
+  },
+  "type": "module"
+}
